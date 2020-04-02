@@ -74,6 +74,6 @@ else if (string === lowerString) {
   return "I can't hear you!";
 }
 else {
-  return "I love you, Grandma";
+  return "I love you too.";
 }
 }

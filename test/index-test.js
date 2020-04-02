@@ -47,7 +47,7 @@ describe('logWhisper(string)', function() {
 })
 
 function logWhisper(string) {
-  console.log(string.toLowerCase()
+  console.log(string.toLowerCase())
 }
 
 describe('sayHiToGrandma(string)', function() {
